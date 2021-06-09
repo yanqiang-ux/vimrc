@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/root/trace'
+let g:netrw_dirhist_5='/root/gperftools-2.6.1'
+let g:netrw_dirhist_4='/root/test_'
+let g:netrw_dirhist_3='/root/ssd2/ceph_code/ceph-int/build/src/ceph-disk/ceph_disk'
+let g:netrw_dirhist_2='/root/ssd2/ceph_code/ceph-int/src/xmds/test'
+let g:netrw_dirhist_1='/root/test'
+let g:netrw_dirhist_0='/root/ssd2/ceph_code/ceph-int/.git'
+let g:netrw_dirhist_9='/etc/ceph'
+let g:netrw_dirhist_8='/root/test'
+let g:netrw_dirhist_7='/root/ssd1/syq/master/bug/ceph-int/src/osd'
